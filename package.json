@@ -1,7 +1,7 @@
 {
   "name": "baab-baba",
   "description": "Get to know what baba does, via the `npx baab-baba`",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "bin": {
     "baba": "index.js"
   },

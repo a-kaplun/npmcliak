@@ -1,0 +1,7 @@
+{
+  "name": "ak",
+  "version": "1.0.0",
+  "bin": {
+    "baba": "index.js"
+  }
+}

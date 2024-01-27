@@ -1,6 +1,6 @@
 {
   "name": "baab-baba",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "bin": {
     "baba": "index.js"
   },
@@ -8,4 +8,3 @@
     "clear-any-console": "^1.16.2"
   }
 }
-

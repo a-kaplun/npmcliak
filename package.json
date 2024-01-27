@@ -1,10 +1,11 @@
 {
   "name": "baab-baba",
+  "description": "Get to know what baba does, via the `npx baab-baba`",
   "version": "1.1.0",
   "bin": {
     "baba": "index.js"
   },
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "cli-welcome": "^2.2.2"
   }
 }
